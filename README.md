@@ -44,6 +44,13 @@ instantly
 ## Implementation
 
 
-To run this app on Flask:<br/>
+To run this app on streamlit, I have created a docker-compose which is used to combine multiple Docker containers and create a
+Docker network service. Running this commands will execute the docker network:<br/>
 
-    `dasdasdasdad`
+    docker build -t image
+    docker-compose build
+
+To acciess the UI, you might need to insert the following link in he browser:<br/>
+
+    http://localhost:8501/
+
