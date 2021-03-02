@@ -18,7 +18,7 @@ Still, for this project  I have used historical bank data which shows wether a c
 
 
 ## Technologies Used:
----
+
 
 
 1: <div style="float: left;"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Apache_Spark_logo.svg/1280px-Apache_Spark_logo.svg.png" width="" height="30
@@ -33,16 +33,12 @@ Still, for this project  I have used historical bank data which shows wether a c
 "/></div> <br/>
 <br/> 
 
-<br/>
-
 - Used Flask to implement model in real time.
 - At first I wanted to test weather the app was running successfuly or not, thats why I used flask to evaluate it.
 
 3: Docker <div style="float: left;"><img src="https://blog.knoldus.com/wp-content/uploads/2017/12/docker_facebook_share.png" width="60" height="50
 "/></div> <br/>
 <br/> 
-
-<br/>
 
 - Deployed the whole source code along with primiary files to the Docker. <br/>
 - Docker-based deployment is useful
@@ -53,14 +49,12 @@ in a lot of ways when compared to a traditional scoring method, like spark-submi
 "/></div> <br/>
 <br/> 
 
-<br>
-
 - Build the user interface using Streamlit.
 - One of the advantages of streamlit is streamlit is that you can edit the Python code and see live changes in the web app
 instantly
 
 ## Implementation
----
+
 
 To run this app on Flask:<br/>
 
