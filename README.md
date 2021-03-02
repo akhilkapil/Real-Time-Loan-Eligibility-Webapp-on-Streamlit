@@ -51,7 +51,8 @@ Docker network service. Running this commands will execute the docker network:<b
     docker-compose build
 
 After unning the above command, docker will tag the image with some of its own name, like in the image below:
-![Screenshot](docker.png)
+
+![Alt Text](https://github.com/akhilkapil/Real-Time-Webapp-on-Streamlit/blob/main/docker.PNG)
 
 
 To acciess the UI, you might need to insert the following link in he browser:<br/>
