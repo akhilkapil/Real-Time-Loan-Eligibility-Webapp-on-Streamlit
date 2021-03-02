@@ -62,4 +62,4 @@ And finally use this URL http://localhost:8501/ -automatic! to run the app.
 
 The app will look something like this:
 
-![Alt Text](https://github.com/akhilkapil/Real-Time-Webapp-on-Streamlit/blob/main/docker.PNG)
+![Alt Text](https://github.com/akhilkapil/Real-Time-Webapp-on-Streamlit/blob/main/app.PNG)
