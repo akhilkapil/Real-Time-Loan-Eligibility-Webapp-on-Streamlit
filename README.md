@@ -50,12 +50,13 @@ Docker network service. Running this commands will execute the docker network:<b
     docker build -t image
     docker-compose build
 
-After unning the above command, docker will tag the image with some of its own name, like in the image below:
+
+After unning the above command the docker image will tagged with some of its own name. <br/>
+You need to run that command in order to execute the server.
 
 ![Alt Text](https://github.com/akhilkapil/Real-Time-Webapp-on-Streamlit/blob/main/docker.PNG)
 
+  docker run -p realtimepredictions_streamlit:latest
 
-To acciess the UI, you might need to insert the following link in he browser:<br/>
-
-    http://localhost:8501/
+And finally use this URL http://localhost:8501/ -automatic! to run the app.
 
