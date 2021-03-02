@@ -21,7 +21,7 @@ Still, for this project  I have used historical bank data which shows wether a c
 
 
 
-1: <div style="float: left;"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Apache_Spark_logo.svg/1280px-Apache_Spark_logo.svg.png" width="" height="30
+1: <div style="float: left;"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Apache_Spark_logo.svg/1280px-Apache_Spark_logo.svg.png" width="15" height="15
 "/></div> <br/>
 - Used Pysaprk for its capability to process large amounts of data. 
 - Trained model with RandomForstClassifer for predictions.
