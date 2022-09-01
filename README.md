@@ -10,8 +10,7 @@ In this repository I have developed an real time API to score model in real time
 <br/>
 <b>Why Real time ?</b> <br/>
 Because it enables your model
-to be embedded in a web browser so as to get predictions and take action based on
-predictions.<br/>
+to be embedded in a web browser so as to get predictions and take action based on predictions.<br/>
 This is useful for making online recommendations, checking credit card approval status, and so on. The application is enormous, and it becomes easier to manage such APIs using Docker.
 
 Still, for this project  I have used historical bank data which shows wether a customer is eligible for the loan or not based on certain features.
